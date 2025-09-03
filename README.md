@@ -26,4 +26,5 @@ This app allow you to create a task with a title, subtitle and priority.
 
 :warning: This app was made only to understand the basics of SwiftUI. Because of this, I didn't implemented the delete task or other functionalities that it would be cool. 
 
-PS: I tried to implement drag and drop, but I failed :sad:. I'll keep trying later.
+PS: I tried to implement drag and drop, but I failed :sad:
+I'll keep trying later.
